@@ -27,7 +27,7 @@ The user is prompted to enter a temperature value and choose the unit to convert
 This task is part of **Level 1** under the **Java Development Internship** at Cognifyz Technologies.
 
 ## 🔗 LinkedIn Post
-https://www.linkedin.com/in/marooflearns/
+https://www.linkedin.com/posts/marooflearns_cognifyz-cognifyztech-cognifyztechnologies-activity-7340767664442630146-LMpP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFhj5nYBNjmWNuA6WCpB-iYKPXc9BjscvM4
 
 ## 🏷️ Hashtags
 #cognifyz #cognifyzTech #cognifyzTechnologies #Java #Internship #Task1 #TemperatureConverter
